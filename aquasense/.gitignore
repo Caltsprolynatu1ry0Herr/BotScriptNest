@@ -1,0 +1,8 @@
+__pycache__/
+*.env
+data/sensor_readings/
+data/historical_events/
+notebooks/*.ipynb_checkpoints/
+models/*.h5
+dashboard/node_modules/
+dashboard/build/
